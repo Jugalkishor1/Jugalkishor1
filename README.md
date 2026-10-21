@@ -4,7 +4,7 @@ Hello, I'm Jugal Kishor! 🚀
 
 # 💫 About Me:
 
-I'm a Full Stack Developer with 4 years of experience specializing in Ruby on Rails, Python (Django, React, and modern web technologies.
+I'm a Full Stack Developer with 4 years of experience specializing in Ruby on Rails, Python (Django and FastAPI), React, and modern web technologies.
 My experience includes backend architecture, REST and GraphQL APIs, third-party integrations, payment processing, real-time features, and frontend development. I've worked on real-world products involving food ordering systems, POS applications, SaaS platforms, and performance optimization.
 
 * Backend: Ruby on Rails, Python, Django, DRF, FastAPI, REST APIs, GraphQL
